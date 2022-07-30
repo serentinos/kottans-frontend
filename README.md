@@ -14,7 +14,7 @@ ___
 ___
 
 
-## **Level 0** Introduction to git (git-intro)
+## **Level 0:** Introduction to git (git-intro)
 
 
 1.Рівні на [Coursera](https://www.coursera.org/learn/introduction-git-github): 
@@ -63,3 +63,31 @@ ___
 - Прочитав дві статті про HTTP протоколи, їх роботу та можливості. Поглибив свої знання в цьому питанні, та сподіваюсь, запамятав їх)
 - Також пройшовся по додатковим матеріалам.
 
+## Git для командної співпраці
+
+В цьому розділі я:
+
+ - Пройшов 3 та 4 тиждень курсу [Coursera](https://www.coursera.org/learn/introduction-git-github)
+ 
+<details>
+<summary>Скріншоти</summary>
+<img src=".\task_git_collaboration\courseera_w3.png">
+<img src=".\task_git_collaboration\courseera_w4.png">
+</details>
+
+- Пройшов Рівні на [learngitbranching.js.org](http://learngitbranching.js.org)
+
+<details>
+<summary>Скріншоти</summary>
+<img src=".\task_git_collaboration\learngit_1.png">
+<img src=".\task_git_collaboration\learngit_2.png">
+</details>
+
+Від себе хочу сказати, що курси на Courseera дали мені більше розуміння Git, ніж learngitbranching. В Courseera показують використання Git в реальних умовах, на відміну від learngitbranching. Хоч я його пройшов з тяжкістю, але пройшов, хоч прийшлось дуже багато раз заходити в підсказки. Тому поставив в закладки додаткові матеріали, і буду проходити по них для більшого розуміння Git:)
+
+___
+
+
+## **Level 0:** Front-End Basics
+
+> З базою Front-End трішки ознайомлений, тому ця частина має пройти чудово)
