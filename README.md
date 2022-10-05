@@ -6,7 +6,7 @@ ___
 
  - [x] **Git, GitHub, git flow**
  - [x] **Linux, командний рядок, основи нетворкінгу**
- - [ ] **HTML, CSS**
+ - [x] **HTML, CSS**
  - [ ] **JS basics**
  - [ ] **Frontend framework basics (React)**
  - [ ] **TypeScript basics**
@@ -184,4 +184,35 @@ ___
 
 Взагалі це був цікавий виклик, адже ніколи до цього не верстав інтерактивні елементи. В цьому проекті попап з'являється через активацію прихованого чекбокса, що дуже цікаво. Реалізацію підглянув з відео на ютубі, яке було прикріплене в курсі. 
 
+## JS Basics
 
+Мабуть найважчий розділ для мене, хоч я і раніше пробував вникнути в JS повною мірою, але це виходило дуже важко. Тепер ж я повністю освіжив свої знання та 
+добряче попрацював, щоб матеріал засвоївся добре, тому ось звіт:
+
+<details>
+<summary>Courseera</summary>
+
+![courseera1](/task_js_basics/courseera_1.png)
+![courseera2](/task_js_basics/courseera_2.png)
+
+</details>
+
+>Курс від courseera запамятався слабенько, але знання освіжив.
+
+<details>
+<summary>FreeCodeCamp</summary>
+
+![freecodecamp_1](/task_js_basics/freecodecamp_1.png)
+![freecodecamp_2](/task_js_basics/freecodecamp_2.png)
+![freecodecamp_3](/task_js_basics/freecodecamp_3.png)
+![freecodecamp_4](/task_js_basics/freecodecamp_4.png)
+![freecodecamp_5](/task_js_basics/freecodecamp_5.png)
+![freecodecamp_6](/task_js_basics/freecodecamp_6.png)
+
+</details>
+
+>Від курсу FreeCodeCamp тільки позитивні емоції, багато цікавих завдань, хоч поставлена задача іноді була не зрозумілою. Більшість задач пройшов самостійно, хоч дещо приходилось гуглити) В цілому задоволений.
+
+Додатково до цього матеріало, я ще пройшов відео від Bogdan Stashchuk [JS за 11 часов](https://www.youtube.com/watch?v=CxgOKJh4zWE), він максимально закріпив всі мої пробіли, я навіть нарешті зрозумів природу JS:)
+
+Загалом це було дуже важко, хоч я не вписався в терміни курсу kottans-frontend, але я буду продовжувати своє навчання самостійно та розвиватись)
